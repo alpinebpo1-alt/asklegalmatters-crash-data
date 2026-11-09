@@ -1,0 +1,8 @@
+Fatal motor vehicle crashes by U.S. place and road, 2020-2024 (derived from NHTSA FARS)
+Version 1.1. Copyright 2026 Ask Legal Matters (asklegalmatters.com).
+
+The compilation in this package (the selection, place matching, road-name cleaning and documentation) is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/
+Credit: "Ask Legal Matters (asklegalmatters.com), Fatal motor vehicle crashes by U.S. place and road, 2020-2024 (derived from NHTSA FARS)".
+
+Underlying data: National Highway Traffic Safety Administration, Fatality Analysis Reporting System (FARS). FARS is a work of the U.S. government and is in the public domain.
+Population figures: GeoNames (https://www.geonames.org/), licensed CC BY 4.0.
